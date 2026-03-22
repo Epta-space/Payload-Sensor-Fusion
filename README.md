@@ -11,7 +11,7 @@ Rocket payload telemetry system developed for the **LASC 2025 NASHIRA** mission 
       <img src="media/Rocket_Attitude.gif" style="width: 100%; display: block;">
     </td>
     <td style="width: 35%; padding: 0; vertical-align: middle;">
-      <img src="media/Testing.gif" style="width: 87%; display: block;">
+      <img src="media/Testing.gif" style="width: 100%; display: block;">
     </td>
   </tr>
   <tr>
