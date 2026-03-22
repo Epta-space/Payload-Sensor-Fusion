@@ -4,20 +4,26 @@ Rocket payload telemetry system developed for the **LASC 2025 NASHIRA** mission 
 
 ## Demo
 
-### Rocket Attitude Visualization
-Real-time 3D rocket orientation using quaternion-based sensor fusion.
-
-![Rocket Attitude Visualization](media/Rocket_Attitude.gif)
+### Rocket Attitude Visualization & System Testing
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+  <tr>
+    <td style="width: 65%; padding: 0; vertical-align: middle;">
+      <img src="media/Rocket_Attitude.gif" style="width: 100%; display: block;">
+    </td>
+    <td style="width: 35%; padding: 0; vertical-align: middle;">
+      <img src="media/Testing.gif" style="width: 87%; display: block;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Rocket Attitude</em></td>
+    <td align="center"><em>System Testing</em></td>
+  </tr>
+</table>
 
 ### IMU Data Acquisition
-Raw and filtered IMU readings with real-time visualization.
+<img src="media/IMU_reading.gif" width="100%" alt="IMU Data Acquisition">
 
-![IMU Data Acquisition](media/IMU_reading.gif)
-
-### System Testing
-Integration testing of the complete telemetry system.
-
-![System Testing](media/Testing.gif)
+*Raw and filtered IMU readings with real-time visualization.*
 
 ## Features
 
