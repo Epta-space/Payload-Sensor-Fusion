@@ -1,4 +1,0 @@
-../Core/Src/GPS.c:13:6:GPS_begin	8	static
-../Core/Src/GPS.c:18:6:GPS_Write	16	static
-../Core/Src/GPS.c:23:6:GPS_Read	16	static
-../Core/Src/GPS.c:30:6:parseNMEA	152	static

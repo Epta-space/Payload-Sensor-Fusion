@@ -1,0 +1,4 @@
+../Core/Src/quaternion.c:10:6:quaternion_init	2
+../Core/Src/quaternion.c:18:6:normalizeVector	2
+../Core/Src/quaternion.c:27:6:normalizeQuaternion	2
+../Core/Src/quaternion.c:37:6:quaternionToEuler	1

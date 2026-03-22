@@ -1,0 +1,16 @@
+../Core/Src/BAR.c:109:13:calculate_conversion_constants	1
+../Core/Src/BAR.c:15:6:BAR_Init	1
+../Core/Src/BAR.c:87:19:BAR_ReadCalibration	5
+../Core/Src/BAR.c:123:6:BAR_CalculateConversionConstants	1
+../Core/Src/BAR.c:25:19:BAR_Begin	4
+../Core/Src/BAR.c:174:19:BAR_ReadRaw	3
+../Core/Src/BAR.c:240:7:BAR_ConvertTemperature	1
+../Core/Src/BAR.c:245:7:BAR_CalculateAltitude	1
+../Core/Src/BAR.c:250:7:BAR_ConvertPressureWithCalibration	1
+../Core/Src/BAR.c:217:6:BAR_ConvertData	2
+../Core/Src/BAR.c:279:6:BAR_SetSeaLevelPressure	1
+../Core/Src/BAR.c:284:6:BAR_SetSeaLevelPressureFromAltitude	1
+../Core/Src/BAR.c:290:6:BAR_CalculateDisplacement	3
+../Core/Src/BAR.c:297:6:BAR_SaveInitialAltitude	2
+../Core/Src/BAR.c:49:19:BAR_Update	4
+../Core/Src/BAR.c:313:6:BAR_PrintInfo	8

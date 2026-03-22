@@ -1,0 +1,15 @@
+../Core/Src/fatfs_sd_card.c:50:13:SPI_TxBuffer	2
+../Core/Src/fatfs_sd_card.c:43:13:SPI_TxByte	2
+../Core/Src/fatfs_sd_card.c:29:13:SELECT	1
+../Core/Src/fatfs_sd_card.c:36:13:DESELECT	1
+../Core/Src/fatfs_sd_card.c:57:16:SPI_RxByte	2
+../Core/Src/fatfs_sd_card.c:95:13:SD_PowerOn	4
+../Core/Src/fatfs_sd_card.c:79:16:SD_ReadyWait	3
+../Core/Src/fatfs_sd_card.c:174:13:SD_TxDataBlock	6
+../Core/Src/fatfs_sd_card.c:216:13:SD_SendCmd	6
+../Core/Src/fatfs_sd_card.c:145:13:SD_RxDataBlock	5
+../Core/Src/fatfs_sd_card.c:255:9:SD_disk_initialize	23
+../Core/Src/fatfs_sd_card.c:355:9:SD_disk_status	2
+../Core/Src/fatfs_sd_card.c:362:9:SD_disk_read	10
+../Core/Src/fatfs_sd_card.c:404:9:SD_disk_write	13
+../Core/Src/fatfs_sd_card.c:459:9:SD_disk_ioctl	20

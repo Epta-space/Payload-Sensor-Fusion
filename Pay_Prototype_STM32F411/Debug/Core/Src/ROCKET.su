@@ -1,5 +1,0 @@
-../Core/Src/ROCKET.c:14:12:invert3x3	24	static
-../Core/Src/ROCKET.c:35:6:RocketEKF_Init	24	static
-../Core/Src/ROCKET.c:64:6:RocketEKF_Predict	480	static
-../Core/Src/ROCKET.c:115:6:RocketEKF_UpdateGPS	368	static
-../Core/Src/ROCKET.c:180:6:RocketEKF_UpdateBaro	64	static

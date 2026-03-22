@@ -1,0 +1,5 @@
+../Core/Src/icp10100.c:24:19:ICP10100_ReadRaw	1
+../Core/Src/icp10100.c:40:7:ICP10100_ConvertTemperature	1
+../Core/Src/icp10100.c:47:7:ICP10100_CalculateAltitude	1
+../Core/Src/icp10100.c:54:19:ICP10100_ReadCalibration	5
+../Core/Src/icp10100.c:104:7:ICP10100_ConvertPressureWithCalibration	1

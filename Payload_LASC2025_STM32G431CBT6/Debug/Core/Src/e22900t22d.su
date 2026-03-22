@@ -1,0 +1,6 @@
+../Core/Src/e22900t22d.c:72:6:e22_lora_init	8	static
+../Core/Src/e22900t22d.c:110:6:e22_lora_transnit	24	static
+../Core/Src/e22900t22d.c:134:6:e22_lora_receive	0	static
+../Core/Src/e22900t22d.c:145:6:e22_lora_manager	24	static
+../Core/Src/e22900t22d.c:176:6:e22_lora_make_ready	0	static
+../Core/Src/e22900t22d.c:184:6:e22_lora_reception_complete	8	static
